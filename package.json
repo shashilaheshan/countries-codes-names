@@ -1,0 +1,35 @@
+{
+  "name": "countries-codes-names",
+  "version": "1.0.0",
+  "description": "List of 236 countries names and Country codes as json object.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashilaheshan/countries-codes-names.git"
+  },
+  "keywords": [
+    "Country",
+    "Country",
+    "codes",
+    "region",
+    "codes",
+    "all",
+    "countries",
+    "city",
+    "codes",
+    "country",
+    "codes",
+    "world",
+    "country",
+    "names",
+    "names",
+    "of",
+    "countries"
+  ],
+  "author": "Shashila Heshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashilaheshan/countries-codes-names/issues"
+  },
+  "homepage": "https://github.com/shashilaheshan/countries-codes-names#readme"
+}
